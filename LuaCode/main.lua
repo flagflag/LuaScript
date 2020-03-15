@@ -7,3 +7,8 @@ game_events.update = function ()
 end
 
 main_end ()
+
+test ()
+
+test2 ()
+
